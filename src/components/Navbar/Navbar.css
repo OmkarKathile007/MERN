@@ -80,3 +80,10 @@
     color: white;
 }
 
+@media(max-width:1024px){
+    .navbar{
+        width:80px;
+        height: 35px;
+        font-size: 14px;
+    }
+}

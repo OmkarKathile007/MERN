@@ -8,17 +8,20 @@
 
 }
 .cartitems-format-main{
+    /* border: 1px solid red; */
+    width: 90vw;
     display: grid;
     grid-template-columns: 0.5fr 2fr 1fr 1fr 1fr 1fr;
     align-items: center;
-    gap: 75px;
+    gap: 10px;
     padding: 20px 0px;
     color: #454545;
     font-size: 18px;
     font-weight: 600;
+    margin: 15px auto;
 }
 .cartitems-format{
-    font-size: 17px;
+    font-size: 15px;
     font-weight: 500;
 }
 
@@ -36,19 +39,21 @@
     height: 50px;
     border: 2px solid #ebebeb;
     background: #fff;
-
 }
 
 .cartitem-down{
     display: flex;
     margin: 100px 0px;
+    gap: 50px;
+    /* border: 1px solid red; */
 }
 .cartitems-total{
-    flex: 1;
+    flex: 0.5;
     display: flex;
     flex-direction: column;
-    margin-right: 200px;
-    gap: 40px;
+    margin-left: 100px;
+    gap: 20px;
+    /* border: 1px solid red; */
 
 }
 .cartitems-total-item{
@@ -68,9 +73,10 @@
     cursor: pointer;
 }
 .cartitems-promocode{
-    flex:1;
+    flex:0.5;
     font-size: 16px;
     font-weight: 500;
+    /* border: 1px solid red; */
 }
 .cartitems-promocode p{
     color: #555;
