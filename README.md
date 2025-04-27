@@ -1,6 +1,6 @@
 # UrbanThreads
 
-An elegant, responsive e-commerce frontend built with React.js. UrbanThreads showcases a simple, yet powerful UI for browsing categories, viewing product details, managing a shopping cart, and handling user signup—perfect for learning React fundamentals and shipping a portfolio-grade project.
+An elegant, a frontend built with React.js. UrbanThreads showcases a simple, yet powerful UI for browsing categories, viewing product details, managing a shopping cart, and handling user signup—perfect for learning React fundamentals and shipping a portfolio-grade project.
 
 ---
 
